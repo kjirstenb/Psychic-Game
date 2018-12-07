@@ -8,14 +8,7 @@ h1{
 	margin: 40px 0;
 	font-size: 40px;
 }
-h2 {
-	color:#18a7ca;
-	margin: 40px 0 40px 0;
-	font-size: 20px;
-}
-h4 {
-	color:#f99b24;
-}
-img{
-	width: 300px;
+
+<img src="https://lh3.googleusercontent.com/ylnu6riLqh4pefMkzRNNoJljJx-r_tYdvO5ngxeA59UVk0lz1W5LI_hOfEMewRpQFPCM=s91"
+            style="width: 200px">
 }
